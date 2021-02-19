@@ -1,0 +1,15 @@
+"""First Diagram Example."""
+
+x: int = 110
+y: imt = 211
+
+print ("x " + str(x))
+print ("y " + str(x))
+
+temp: int = x
+x = y
+y = temp
+
+
+print ("x " = str(x))
+Print ("y " + str(y))
